@@ -1,0 +1,12 @@
+﻿ID,Programme,Type,Location,Region,CAPEX,NPV,CAPEX Yr1,CAPEX Yr2,CAPEX Yr3
+1,Piping,AssetIntegrity,Facility J,Zone4,5,6,4,1,0
+2,Instrumentation,AssetIntegrity,Facility F,Zone1,10,11,1,5,4
+3,Mechanical,AssetIntegrity,Facility C,Zone3,10,14,2,4,4
+4,Debottlenecking,Growth,Facility D,Zone4,5,7,5,0,0
+5,Piping,AssetIntegrity,Facility C,Zone3,10,12,4,4,2
+6,Expansion,Growth,Facility C,Zone3,15,20,7,8,0
+7,Revamp,Growth,Facility F,Zone1,15,16,7,7,1
+8,Piping,AssetIntegrity,Facility D,Zone4,2,5,1,1,0
+9,Revamp at Facility E Start Yr1 ,Growth,Facility E,Zone5,3,4,2,1,0
+10,Revamp at Facility E Start Yr2,Growth,Facility E,Zone5,3,3.75,0,2,1
+11,Piping,AssetIntegrity,Facility H,Zone3,7,9,3,3,1

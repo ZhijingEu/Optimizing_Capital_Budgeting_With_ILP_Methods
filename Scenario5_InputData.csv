@@ -1,0 +1,11 @@
+﻿Index,Programme,CAPEX,Type,Location,Region,BenefitPerYr,Year_1,Year_2,Year_3,Year4_Onwards,CAPEX_Min,CAPEX_Mode,CAPEX_Max,Benefit_Min,Benefit_Mode,Benefit_Max
+1,CivilStructural,5,AssetIntegrity,Facility H,Zone3,2,1,0,0,1,0.95,1.00,1.50,0.60,1.00,1.10
+2,Electrical,15,AssetIntegrity,Facility M,Zone5,3,1,0,0,1,0.90,1.00,1.20,0.80,1.00,1.10
+3,Piping,10,AssetIntegrity,Facility E,Zone5,5,0,0,1,1,0.90,1.00,1.20,0.80,1.00,1.10
+4,Instrumentation,5,AssetIntegrity,Facility E,Zone5,2,0,1,0,1,0.90,1.00,1.20,0.80,1.00,1.10
+5,CivilStructural,10,Growth,Facility M,Zone5,4,0,0,1,1,0.90,1.00,1.20,0.80,1.00,1.10
+6,Expansion,15,Growth,Facility C,Zone3,8,0,0,0,1,0.80,1.00,1.70,0.80,1.00,1.10
+7,Debottlenecking,10,Growth,Facility M,Zone5,2,0,0,0,1,0.90,1.00,1.20,0.85,1.00,1.10
+8,Revamp,2,Growth,Facility G,Zone1,1,0,0,0,1,0.90,1.00,1.20,0.85,1.00,1.10
+9,Revamp,3,Growth,Facility F,Zone1,1,0,0,0,1,0.90,1.00,1.20,0.95,1.00,1.10
+10,Expansion,7,Growth,Facility J,Zone4,2,0,0,0,1,0.90,1.00,1.20,0.95,1.00,1.10

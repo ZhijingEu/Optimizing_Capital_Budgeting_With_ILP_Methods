@@ -1,0 +1,11 @@
+﻿Index,Programme,CAPEX,Type,Location,Region,BenefitPerYr,Year_1,Year_2,Year_3,Year4_Onwards
+1,CivilStructural,5.0,AssetIntegrity,Facility H,Zone3,2.0,1,0,0,1
+2,Electrical,15.0,AssetIntegrity,Facility M,Zone5,3.0,1,0,0,1
+3,Piping,10.0,AssetIntegrity,Facility E,Zone5,5.0,0,0,1,1
+4,Instrumentation,5.0,AssetIntegrity,Facility E,Zone5,2.0,0,1,0,1
+5,CivilStructural,10.0,Growth,Facility M,Zone5,4.0,0,0,1,1
+6,Expansion,15.0,Growth,Facility C,Zone3,8.0,0,0,0,1
+7,Debottlenecking,10.0,Growth,Facility M,Zone5,2.0,0,0,0,1
+8,Revamp,2.0,Growth,Facility G,Zone1,1.0,0,0,0,1
+9,Revamp,3.0,Growth,Facility F,Zone1,1.0,0,0,0,1
+10,Expansion,7.0,Growth,Facility J,Zone4,2.0,0,0,0,1
